@@ -22,7 +22,7 @@ title: Merri Robotics Club
 email: merrirobotics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the home page of the Merri-bek Robotics Club
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/website" # the subpath of your site, e.g. /blog
 domain: "merrirobotics.github.io"
 url: "https://merrirobotics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  merrirobotics
