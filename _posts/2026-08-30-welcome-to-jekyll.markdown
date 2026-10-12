@@ -4,6 +4,19 @@ title:  "Merri Robotics 2026 Newsletter"
 date:   2026-08-30 11:23:07 +1000
 categories: jekyll update
 ---
+
+<style type="text/css" media="screen">
+  *{
+    background: rgb(11,36,54);
+    font-family: "courier";
+    color: white;
+  }
+  a.site-title {
+  font-weight: bold;
+  color: rgb(249,218,80) !important;
+  font-size: 40px;
+  }
+</style>
 Issue 1: "We did well, we came last."
 
 On the last weekend of the July holidays, the Merri-Bek Robotics club participated in the off-season Melbourne Robotics Tournament. This was our second year at the event, after the previous year.

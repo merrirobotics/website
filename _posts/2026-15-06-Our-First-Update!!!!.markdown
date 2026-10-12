@@ -4,7 +4,18 @@ title:  "Our First Update"
 date:   2026-06-15 11:23:07 +1000
 categories: jekyll update
 ---
-
+<style type="text/css" media="screen">
+  *{
+    background: rgb(11,36,54);
+    font-family: "courier";
+    color: white;
+  }
+  a.site-title {
+  font-weight: bold;
+  color: rgb(249,218,80) !important;
+  font-size: 40px;
+  }
+</style>
 Welcome to our first update on this website! Since we last spoke, we have come a long way. This website was created, we have attached a bird to our robot, funds have been both raised and granted, and our robot has almost entirely been disassembled!
 
 This website was created by a team of our members, who learnt CSS, some HTML, and the Wagtail Content Management System. This is still being worked on, with some formatting issues regarding the size of some images and the colour of some headings (see this page, unless it has been fixed).
