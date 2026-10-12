@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Merri Robotics 2026 Newsletter"
 date:   2026-08-30 11:23:07 +1000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Issue 1: "We did well, we came last."
 
-Jekyll requires blog post files to be named according to the following format:
+On the last weekend of the July holidays, the Merri-Bek Robotics club participated in the off-season Melbourne Robotics Tournament. This was our second year at the event, after the previous year.
+The Robot
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The team's robot, called the Merri Bot, is our own original design based on the kit-bot given to us last year. It used a tank drive base, and had a pole with wheels on it designed to pick this year's game pieces up from the floor of the arena. It has a large hopper to hold large amounts of the balls, to give to our teammates or steal from our opponents.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+It was designed over the course of the year, after reviewing this year's game manual, but our whole build was made possible through a sponsorship from Coburg High School and grants from the Merri-Bek City Council. Additional funding was raised through a cake stall at the Coburg Farmer's Market. We are very grateful for their support.
 
-Jekyll also offers powerful support for code snippets:
+The Tournament
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The MRT (Melbourne Robotics Tournament) is a competition held every year at Blackburn High School. It is the off-season competition of the FRC. (First Robotics Competition) The official competition is held in Sydney earlier in the year, but the off-season competition allows teams more time to prepare and create a better robot. The lower stakes also allow new teams like us to have a go, and try our best in a new experience.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This year there were 22 teams competing in the tournament. We played through the qualifiers and placed 8th overall in the competition, meaning we were the captain of the alliance for the finals. Unfortunately due to the drafting process our alliance placed 7th overall (out of 7 alliances in the final.) However we were all still extremely proud of our effort to build our robot from scratch and take it to a competitive level.
