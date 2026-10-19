@@ -26,8 +26,12 @@ The team's robot, called the Merri Bot, is our own original design based on the 
 
 It was designed over the course of the year, after reviewing this year's game manual, but our whole build was made possible through a sponsorship from Coburg High School and grants from the Merri-Bek City Council. Additional funding was raised through a cake stall at the Coburg Farmer's Market. We are very grateful for their support.
 
+<img src="/resources/robotWithTeam.jpg">
+
 The Tournament
 
 The MRT (Melbourne Robotics Tournament) is a competition held every year at Blackburn High School. It is the off-season competition of the FRC. (First Robotics Competition) The official competition is held in Sydney earlier in the year, but the off-season competition allows teams more time to prepare and create a better robot. The lower stakes also allow new teams like us to have a go, and try our best in a new experience.
+
+<img src="/resources/ourRobot.png">
 
 This year there were 22 teams competing in the tournament. We played through the qualifiers and placed 8th overall in the competition, meaning we were the captain of the alliance for the finals. Unfortunately due to the drafting process our alliance placed 7th overall (out of 7 alliances in the final.) However we were all still extremely proud of our effort to build our robot from scratch and take it to a competitive level.
